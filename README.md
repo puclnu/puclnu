@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomoaki</h1>
 <h3 align="center">Beginner Web Designer</h3>
-<h3 align="center">I have recently been studying lua to learn scripting in Roblox</h3>
+<h3 align="center">We are creating an application that will make your daily school life easier!</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
