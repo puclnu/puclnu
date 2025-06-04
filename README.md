@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomoaki</h1>
+<h1 align="center">Hi 👋, I'm puchu</h1>
 <h3 align="center">Beginner Web Designer</h3>
 <h3 align="center">We are creating an application that will make your daily school life easier!</h3>
 
